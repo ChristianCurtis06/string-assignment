@@ -1,0 +1,1 @@
+This repository includes the assignment: Python Strings in Module 2: Lesson 6 of the Software Engineering Core.
