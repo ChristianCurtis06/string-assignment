@@ -29,7 +29,7 @@ for review in reviews:
 positive_words = ["good", "excellent", "great", "awesome", "fantastic", "superb", "amazing"]
 negative_words = ["bad", "poor", "terrible", "horrible", "awful", "disappointing", "subpar"]
 
-# Defining a function to iterate through the reviews and tally the occurences of positive and negative words
+# Defining a function to iterate through the reviews and tally the occurrences of positive and negative words
 def tally_sentiments(strings):
     positive_tally = 0
     negative_tally = 0
